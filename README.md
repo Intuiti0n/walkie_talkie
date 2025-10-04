@@ -127,5 +127,3 @@ Aqui estão os canais PMR446 standard (Europa):
 Boas comunicações!
 
 ***
-
-Guarde este texto num ficheiro chamado README.md para servir de manual em português.
