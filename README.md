@@ -119,6 +119,23 @@ Aqui estão os canais PMR446 standard (Europa):
 
 ***
 
+## Dicas para jogos de airsoft, paintball, ciclismo, outras atividades
+
+- baofeng uv 5r permite ouvir 2 canais ao mesmo tempo
+- como desligar luz do ecra
+- cobrir luz do led para jogos noturnos
+- desligar beep
+- ligar detecao de voz
+- modo poupança de bateria
+- baterias extendidas, a pilhas, usb c, etc
+- DCS e CTS - Tons do baofeng sao um filtro dentro daquele canal. Imaginem que estao dentro de um pavilhao, onde cada divisao pode ser separada por paredes finas. Se o vosso grupo tiver o radio configurado para estar a escuta de um determinado tom, voces so vao ouvir transmissoes que sigam esse tom. Seria o mesmo que ter o grupo todo dentro da mesma sala no pavilhao. quem está fora da sala, que nao tem o tom configurado, pode ouvir a vossa conversa na mesma, mas voces so ouvem a conversa de quem esta dentro da sala. Alem disso, sendo um canal partilhado, se alguem falar fora da sala, voces nao vao ouvir, mas o canal está a ser usado e iria interferir com as vossas comunicaçoes
+- ALARM
+- DTMFST - Dual tone multi frequency - 
+- S-Code - transmitir entre 1 a 15, para saber qual o squad/grupo que esta a tentar comunicar
+- PTT-ID
+
+***
+
 ## Recursos Adicionais
 
 - Manual completo: [BAOFENG UV 5R MANUAL](https://baofengtech.com/wp-content/uploads/2020/09/BaoFeng_UV-5R_Manual.pdf?srsltid=AfmBOoo2L0pFlHP513k3Hum64U0rbzqQWkWHntk97XP5ckkDu3IMs0zp)
