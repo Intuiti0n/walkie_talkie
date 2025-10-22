@@ -121,8 +121,8 @@ Aqui estão os canais PMR446 standard (Europa):
 
 ## Recursos Adicionais
 
-- Manual completo: [Site do Fabricante ou Distribuidor]
-- Software CHIRP: [Página Oficial de Download CHIRP]
+- Manual completo: [BAOFENG UV 5R MANUAL](https://baofengtech.com/wp-content/uploads/2020/09/BaoFeng_UV-5R_Manual.pdf?srsltid=AfmBOoo2L0pFlHP513k3Hum64U0rbzqQWkWHntk97XP5ckkDu3IMs0zp)
+- Software CHIRP: [Página Oficial de Download CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Download)
 
 Boas comunicações!
 
